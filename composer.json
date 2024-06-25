@@ -1,0 +1,15 @@
+{
+    "name": "hermine/app",
+    "autoload": {
+        "psr-4": {
+            "Hermine\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Idellette",
+            "email": "idellettesom@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
